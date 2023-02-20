@@ -2,13 +2,17 @@
 
 <h3 align="center">About Me 🚀</h3>
 <h3 align="center">Full stack web development bootcamp graduate and aspiring developer in the making...</h3>
+<br>
+<p align="center">💼 Transitioning from QA analyst to developer, looking for my first dev role</p>
 
-- 💼 Transitioning from QA analyst to developer, looking for my first dev role
-- 👨‍💻 I like creating web apps using Ruby on Rails - checkout [Bonded](https://bonded-friendships.herokuapp.com/); a friend-matching prototype app created on the bootcamp
-- 🌱 I’m currently learning React & Redux
-- 📄 Find out more about my professional skills and experience on [LinkedIn](https://www.linkedin.com/in/huda-salameh/)
-- 📫 Get in touch by [email](mailto:huda.salameh44@gmail.com)
+<p align="center">👨‍💻 I like creating web apps using Ruby on Rails - checkout <a href="https://bonded-friendships.herokuapp.com">Bonded</a>
+ 
+<p align="center">🌱 I’m currently learning React & Redux</p>
 
+<p align="center">📄 Find out more about my professional skills and experience on <a href="https://www.linkedin.com/in/huda-salameh/">LinkedIn</a></p>
+
+<p align="center">📫 Get in touch by <a href="mailto:huda.salameh44@gmail.com" target="_blank">email</a></p>
+<br>
 <h3 align="center">Technologies</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-1015eb?style=for-the-badge&logo=ruby&logoColor=white">
