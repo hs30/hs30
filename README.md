@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, World! 👋</h1>
 
 <h3 align="center">About Me 🚀</h3>
-<p align="center">Recent full stack web development bootcamp graduate and aspiring developer in the making, looking for my first role</p>
+<h3 align="center">Full stack web development bootcamp graduate and aspiring developer in the making, looking for my first role</h3>
 
 - 💼 Transitioning from QA analyst to developer
 - 👨‍💻 I like creating web apps using Ruby on Rails - checkout [Bonded](https://bonded-friendships.herokuapp.com/); a friend-matching prototype app created on the bootcamp
