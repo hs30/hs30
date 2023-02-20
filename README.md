@@ -12,7 +12,7 @@
 <p align="center">📄 Find out more about my professional skills and experience on <a href="https://www.linkedin.com/in/huda-salameh/">LinkedIn</a></p>
 
 <p align="center">📫 Get in touch by <a href="mailto:huda.salameh44@gmail.com" target="_blank">email</a></p>
-<br>
+
 <h3 align="center">Technologies</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-1015eb?style=for-the-badge&logo=ruby&logoColor=white">
