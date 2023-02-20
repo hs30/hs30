@@ -7,7 +7,7 @@
 
 <p align="center">👨‍💻 I like creating web apps using Ruby on Rails - checkout <a href="https://bonded-friendships.herokuapp.com">Bonded</a>
  
-<p align="center">🌱 I’m currently learning React & Redux</p>
+<p align="center">🌱 I’m currently learning React & Redux and developing my Ruby on Rails skills</p>
 
 <p align="center">📄 Find out more about my professional skills and experience on <a href="https://www.linkedin.com/in/huda-salameh/">LinkedIn</a></p>
 
