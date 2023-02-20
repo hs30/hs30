@@ -1,9 +1,9 @@
 <h1 align="center"> Hello, World! 👋</h1>
 
 <h3 align="center">About Me 🚀</h3>
-<h3 align="center">Web development bootcamp graduate and aspiring developer in the making, looking for my first role</h3>
+<h3 align="center">Full stack web development bootcamp graduate and aspiring developer in the making...</h3>
 
-- 💼 Transitioning from QA analyst to developer
+- 💼 Transitioning from QA analyst to developer, looking for my first dev role
 - 👨‍💻 I like creating web apps using Ruby on Rails - checkout [Bonded](https://bonded-friendships.herokuapp.com/); a friend-matching prototype app created on the bootcamp
 - 🌱 I’m currently learning React & Redux
 - 📄 Find out more about my professional skills and experience on [LinkedIn](https://www.linkedin.com/in/huda-salameh/)
