@@ -3,11 +3,11 @@
 <h3 align="center">About Me 🚀</h3>
 <h3 align="center">Full stack web development bootcamp graduate and aspiring developer in the making...</h3>
 <br>
-<p align="center">💼 Transitioning from QA analyst to developer, looking for my first dev role</p>
+<p align="center">👨‍💻 Bootcamp project <a href="https://bonded-friendships.herokuapp.com">Bonded</a> created using Ruby on Rails, HTML, CSS, JavaScript
 
-<p align="center">👨‍💻 I like creating web apps using Ruby on Rails - checkout <a href="https://bonded-friendships.herokuapp.com">Bonded</a>
- 
 <p align="center">🌱 I’m currently learning React & Redux and developing my Ruby on Rails skills</p>
+
+<p align="center">💼 Transitioning from QA analyst to developer, looking for my first dev role</p>
 
 <p align="center">📄 Find out more about my professional skills and experience on <a href="https://www.linkedin.com/in/huda-salameh/">LinkedIn</a></p>
 
