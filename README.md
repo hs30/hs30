@@ -5,7 +5,7 @@
 <br>
 <p align="center">👨‍💻 Bootcamp project <a href="https://bonded-friendships.herokuapp.com">Bonded</a> created using Ruby on Rails, HTML, CSS, JavaScript
 
-<p align="center">🌱 Currently learning React & Redux and developing my Ruby on Rails skills</p>
+<p align="center">🌱 Currently learning React Redux and developing my Ruby on Rails skills</p>
 
 <p align="center">💼 Transitioning from QA analyst to developer, looking for my first dev role</p>
 
